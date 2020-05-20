@@ -2,6 +2,8 @@
   <head>
     <title>Music | PHP Server</title>
     <link href='https://fonts.googleapis.com/css?family=Allerta' rel='stylesheet'>
+   <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
   </head>
   <body>
       <div class="header">
