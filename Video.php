@@ -1,6 +1,8 @@
 <html>
   <head>
     <title>Video | PHP Server</title>
+   <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
   </head>
   <body>
       <div class="header">
