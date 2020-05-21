@@ -106,6 +106,7 @@
           <div class="menu-item"><a href="/">Home</a></div>
           <div class="menu-item"><a href="/Music.php">Music</a></div>
           <div class="menu-item"><a href="/Video.php">Video</a></div>
+          <div class="menu-item"><a href="/HomeDatabase.php">Home Database</a></div>
         </div>
         <div class="chat">
           <div class="container">
