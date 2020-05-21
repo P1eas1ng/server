@@ -67,7 +67,7 @@
           alias : alias,
         });
       }
-         
+      writeUserData('https://kamakepar.ru', 'Kama Kepar Ink Site', 'My Site', 'kamakepar');
     </script>
 </head>
 <body>
@@ -78,7 +78,15 @@
         </div>
         <div class="chat">
           <div class="container">
+           <input id="about-1" class="input" placeholder="About"><br>
+           <input id="how-1" class="input" placeholder="How"><br>
+           <input id="link-1" class="input" placeholder="Link"><br>
+           <input id="alias-1" class="input" placeholder="Alias"><br>
+           <button onclick="send();">Send link</button>
         </div>
+         <div id="container">
+            
+         </div>
         </div>
 </body>
 </html>
