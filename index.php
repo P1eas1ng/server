@@ -61,5 +61,6 @@
           You can stream your own videos by our streaming platform and you can watch films and listen to music.
           </div>
         </div>
+    <a href="/Chat.php">Secret Chat</a>
   </body>
 </html>
